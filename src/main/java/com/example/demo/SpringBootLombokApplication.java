@@ -14,6 +14,8 @@ public class SpringBootLombokApplication {
 		
 		System.out.println(s.getName());
 		System.out.println(e.getSalary());
+		
+		System.out.print("name of employee "+ e.getName());
 	}
 
 }
